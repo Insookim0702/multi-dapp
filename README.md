@@ -1,4 +1,4 @@
-# 멀티캠퍼스 - 실전! 이더리움 DApp 개발
+# 실전! 이더리움 DApp 개발
 강동주 [djohnkang](https://github.com/djohnkang)
 
 ## Contents
